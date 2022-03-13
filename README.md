@@ -5,7 +5,9 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## About Searchable Symmetric Encryption
 
-Searchable symmetric encryption (SSE) is a form of encryption that allows one to efficiently search over a collection of encrypted documents or files without the ability to decrypt them
+Searchable symmetric encryption (SSE) is a form of encryption that allows one to efficiently search over a collection of encrypted documents or files without the ability to decrypt them.
+
+![SSE](https://github.com/paulveillard/cybersecurity-searchable-symmetric-encryption/blob/main/img/SSE.jpg)
 
 ## Table of Contents
 
