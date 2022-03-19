@@ -9,7 +9,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ![SSE](https://github.com/paulveillard/cybersecurity-searchable-symmetric-encryption/blob/main/img/SSE.jpg)
 
-## Table of Contents
+## `Table of Contents`
 
 - [Theory](#theory)
 	- [Introductory Papers](#introductory-papers)
@@ -23,7 +23,7 @@ An ongoing & curated collection of awesome software best practices and technique
 	- [Systems](#systems)
 
 
-## Theory
+## `Theory`
 
 ### Introductory Papers
 
