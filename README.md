@@ -3,7 +3,7 @@
 An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Searchable Symmetric Encryption (SSE).
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## About Searchable Symmetric Encryption
+## `About Searchable Symmetric Encryption`
 
 [Searchable symmetric encryption (SSE)](https://en.wikipedia.org/wiki/Searchable_symmetric_encryption) is a form of encryption that allows one to efficiently search over a collection of encrypted documents or files without the ability to decrypt them.
 
@@ -25,20 +25,20 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Theory`
 
-### Introductory Papers
+### `Introductory Papers`
 
 - [Curtmola et al. 2006], [Searchable symmetric encryption: improved definitions and efficient constructions](https://eprint.iacr.org/2006/210.pdf)
 - [Chase et al. 2010], [Structured Encryption and Controlled Disclosure](https://www.iacr.org/archive/asiacrypt2010/6477581/6477581.pdf)
 - [Cash et al. 2013], [Highly-Scalable Searchable Symmetric Encryption with Support for Boolean Queries](https://eprint.iacr.org/2013/169.pdf)
 - [Cash et al. 2014], [Dynamic Searchable Encryption in Very-Large Databases: Data Structures and Implementation](https://eprint.iacr.org/2014/853.pdf)
 
-### Surveys
+### `Surveys`
 
 - [Bösch et al. 2015], [A Survey of Provably Secure Searchable Encryption](https://dl.acm.org/citation.cfm?id=2636328)
 - [Poh et al. 2017], [Searchable Symmetric Encryption: Designs and Challenges](https://dl.acm.org/citation.cfm?id=3064005)
 - [Fuller et al. 2017], [SoK: Cryptographically Protected Database Search](https://arxiv.org/abs/1703.02014)
 
-### Different Aspects
+### `Different Aspects`
 #### Forward & Backward Privacy
 - [Chang et al. 2005], [Privacy Preserving Keyword Searches on Remote Encrypted Data.](https://pdfs.semanticscholar.org/62b0/603324e12755abeba2602ffdecb23937e7e0.pdf)
 - [Stefanov et al. 2014], [Practical Dynamic Searchable Encryption with Small Leakage](https://eprint.iacr.org/2013/832.pdf)
@@ -113,7 +113,7 @@ I would like to thank all the smart people who have started this exciting field 
 
 **[`^        back to top        ^`](#)**
 
-## License
+## `License`
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
