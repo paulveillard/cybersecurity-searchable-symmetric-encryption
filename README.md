@@ -11,16 +11,25 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Table of Contents`
 
-- [Theory](#theory)
-	- [Introductory Papers](#introductory-papers)
-	- [Surveys](#surveys)
-	- [Different Aspects](#different-aspects)
-	- [Blogs](#blogs)
-	- [Videos](#videos)
-	- [Attacks](#attacks)
-- [Implementations](#implementations)  
-  	- [Constructions](#constructions)
-	- [Systems](#systems)
+- [Searchable Symmetric Encryption (SSE)](#searchable-symmetric-encryption-sse)
+	- [`About Searchable Symmetric Encryption`](#about-searchable-symmetric-encryption)
+	- [`Table of Contents`](#table-of-contents)
+	- [`Theory`](#theory)
+		- [`Introductory Papers`](#introductory-papers)
+		- [`Surveys`](#surveys)
+		- [`Different Aspects`](#different-aspects)
+			- [Forward \& Backward Privacy](#forward--backward-privacy)
+			- [Multiple Keywords Search](#multiple-keywords-search)
+			- [Data Locality](#data-locality)
+			- [Verfiability](#verfiability)
+		- [Blogs](#blogs)
+		- [Videos](#videos)
+		- [Attacks](#attacks)
+	- [Implementations](#implementations)
+		- [Constructions](#constructions)
+		- [Systems](#systems)
+	- [Acknowledgements](#acknowledgements)
+	- [`License`](#license)
 
 
 ## `Theory`
@@ -104,6 +113,7 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 - [HardINDX](https://link.springer.com/chapter/10.1007/978-3-319-61176-1_22)
 - [DataBlinder](https://dl.acm.org/doi/10.1145/3366626.3368132)
 - [CryptDICE](https://www.sciencedirect.com/science/article/abs/pii/S0306437920301289)
+- [HEDB](https://github.com/SJTU-IPADS/HEDB)
 
 ## Acknowledgements
 I would like to thank all the smart people who have started this exciting field of security and cryptography, and those who have contributed to this relatively young research area. We thank [Fuller et al. 2017](https://arxiv.org/abs/1703.02014) and Raphael Bost ([his website](https://raphael.bost.fyi/se_references/)) whose work has motivated us to make this list.
