@@ -22,7 +22,6 @@ An ongoing & curated collection of awesome software best practices and technique
 			- [Multiple Keywords Search](#multiple-keywords-search)
 			- [Data Locality](#data-locality)
 			- [Verfiability](#verfiability)
-			- [Maintainability](#maintainability)
 		- [Blogs](#blogs)
 		- [Videos](#videos)
 		- [Attacks](#attacks)
@@ -71,9 +70,6 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 #### Verfiability
 - [Kurosowa et al. 2012], [UC-Secure Searchable Symmetric Encryption](https://ifca.ai/pub/fc12/73970279.pdf)
 - [Bost et al. 2016], [Verifiable Dynamic Symmetric Searchable Encryption: Optimality and Forward Security](https://eprint.iacr.org/2016/062)
-
-#### Maintainability
-- [Li M et al. 2023], [Encrypted Databases Made Secure Yet Maintainable](https://www.usenix.org/conference/osdi23/presentation/li-mingyu)
 
 ### Blogs
 - [Mattew Green, 2019],  [Attack of the week: searchable encryption and the ever-expanding leakage function](https://blog.cryptographyengineering.com/2019/02/11/attack-of-the-week-searchable-encryption-and-the-ever-expanding-leakage-function/)
